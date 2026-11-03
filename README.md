@@ -36,4 +36,4 @@ Developed practical skills in data cleaning, data analysis, KPI development, das
 ## Author
 Shaik Subhahan Vali
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python 
+Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python  
